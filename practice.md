@@ -27,7 +27,7 @@ You can also check out the [contributing guidelines](https://github.com/username
 
 ## Screenshots
 
-![Markdown Logo](https://assets.codepen.io/16425/image-placeholder.png)
+![Placeholder Image](https://assets.codepen.io/16425/image-placeholder.png)
 
 ## Tasks
 
@@ -38,6 +38,6 @@ You can also check out the [contributing guidelines](https://github.com/username
 - [ ] Create tutorial videos
 
 ## Emojis
-We love open source! Let's build something amazing together!
+We :heart: open source! Let's build something amazing together!
 
-Feel free to contribute and don't forget to star the repo!
+Feel free to contribute and don't forget to :star: the repo!
