@@ -35,7 +35,7 @@ You can also check out the [contributing guidelines](https://github.com/username
 - [x] Write initial documentation
 - [ ] Add unit tests
 - [ ] Deploy to production
-- [ ]Create tutorial videos
+- [ ] Create tutorial videos
 
 ## Emojis
 We love open source! Let's build something amazing together!
