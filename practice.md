@@ -41,3 +41,18 @@ You can also check out the [contributing guidelines](https://github.com/username
 We :heart: open source! Let's build something amazing together!
 
 Feel free to contribute and don't forget to :star: the repo!
+
+## Important Notes
+
+![NOTE:] This is a note alert. Useful for highlighting important information.
+
+![TIP:] Pro tip: Use keyboard shortcuts to speed up your workflow!
+
+## Comparison Table
+
+| Feature | Basic Plan | Pro Plan | Enterprise |
+|---------|------------|----------|------------|
+| Users | 1-5 | 6-50 | Unlimited |
+| Storage | 10 GB | 100 GB | Custom |
+| Support | Email | Priority | 24/7 Phone |
+| Price | Free | $29/mo | Contact Us |
