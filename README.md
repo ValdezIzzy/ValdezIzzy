@@ -14,11 +14,55 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Hey 👋, This is Isabella Valdez
-[![Gmail Badge](https://img.shields.io/badge/-ivaldez6@ewu.edu-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:ivaldez6@ewu.edu)](mailto:ivaldez6@ewu.edu) 
-[![Linkedin Badge](https://img.shields.io/badge/-Isabella Valdez-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Isabella Valdez/)](https://www.linkedin.com/in/Isabella Valdez/) [![Github Badge](https://img.shields.io/badge/-ValdezIzzy-grey?style=flat&logo=github&logoColor=white&link=https://github.com/ValdezIzzy/)](https://www.github.com/ValdezIzzy/) [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=https://valdezizzy.github.io/DESN368-code-design-workspace//)](https://valdezizzy.github.io/DESN368-code-design-workspace//) <p align='left'>Hey! My name is Izzy and I am a visual communication design student at Eastern Washington University. I love all things creation from coding websites to drawing comics and designing logos. On a regular day, you'll probably catch me playing bass or watching movies :)</p>
-## Some of my Github Stats
-<p align=left> <img src=https://komarev.com/ghpvc/?username=ValdezIzzy alt=ValdezIzzy /> </p>
+# 👋 Hey! I'm Izzy
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=ValdezIzzy&show_icons=true&include_all_commits=true)](https://github.com/ValdezIzzy/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ValdezIzzy&layout=compact)](https://github.com/ValdezIzzy/github-readme-stats)
+![GIF](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
+
+## About Me
+
+Hey! My name is Izzy and I am a Visual Communication Design student at Eastern Washington University.  
+I love all things creation, from coding websites to drawing comics and designing logos.  
+
+On a regular day, you'll probably catch me playing bass 🎸 or watching movies 🎬 :)
+
+---
+
+## Connect With Me
+
+[![Email](https://img.shields.io/badge/Email-ivaldez6%40ewu.edu-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ivaldez6@ewu.edu)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Isabella%20Valdez-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isabella-valdez-17816336b/)
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-View%20My%20Work-black?style=for-the-badge&logo=github&logoColor=white)](https://valdezizzy.github.io/DESN368-code-design-workspace/)
+
+---
+
+## Skills & Tools
+
+- Adobe Creative Suite (Illustrator, Photoshop, InDesign)
+- HTML, CSS, JavaScript
+- Motion + Animation (GSAP, ScrollTrigger)
+- UX/UI Design (Figma)
+- Illustration & Comics
+
+---
+
+## What I'm Working On
+
+- Building a UX portfolio  
+- Creating interactive web experiences  
+- Exploring AI in design workflows  
+
+---
+
+## GitHub Stats
+
+![Izzy's GitHub stats](https://github-readme-stats.vercel.app/api?username=valdezizzy&show_icons=true&theme=tokyonight)
+
+## Fun Facts
+
+- I love storytelling through visuals  
+- Big fan of comics, design history, and experimental layouts  
+- Always down to learn something new  
+
+---
