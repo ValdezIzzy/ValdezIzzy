@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 
 ## About Me
 
-Hello! My name is Izzy and I am a Visual Communication Design student at Eastern Washington University.  
-I love all things creation, from coding websites to drawing comics and designing logos.  
+Hello! My name is Isabella Valdez and I am a Visual Communication Design student at Eastern Washington University.  
+I love all things creation, from coding websites to drawing comics or designing logos.  
 On a regular day, you'll probably catch me playing bass 🎸 or watching movies 🎬 :)
 
 ## Connect With Me
