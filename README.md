@@ -24,11 +24,9 @@ On a regular day, you'll probably catch me playing bass 🎸 or watching movies 
 
 ## Connect With Me
 
-[![Email](https://img.shields.io/badge/Email-ivaldez6%40ewu.edu-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ivaldez6@ewu.edu)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Isabella%20Valdez-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isabella-valdez-17816336b/)
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-View%20My%20Work-black?style=for-the-badge&logo=github&logoColor=white)](https://valdezizzy.github.io/DESN368-code-design-workspace/)
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:ivaldez6@ewu.edu)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/isabella-valdez-17816336b/)
+[![GitHub](https://skillicons.dev/icons?i=github)](https://valdezizzy.github.io/DESN368-code-design-workspace/)
 
 ## Skills & Tools
 
@@ -44,14 +42,8 @@ On a regular day, you'll probably catch me playing bass 🎸 or watching movies 
 - Creating interactive web experiences  
 - Working with real clients in the community to create posters
 
-## GitHub Stats
-
-![Izzy's GitHub stats](https://github-readme-stats.vercel.app/api?username=valdezizzy&show_icons=true&theme=tokyonight)
-
 ## Fun Facts
 
 - I love storytelling through visuals  
 - Big fan of comics, design history, and experimental layouts  
 - Always down to learn something new  
-
----
