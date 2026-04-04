@@ -1,5 +1,3 @@
-## Isabella Valdez
-
 <!--
 **ValdezIzzy/ValdezIzzy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,16 +14,13 @@ Here are some ideas to get you started:
 -->
 # 👋 Hey! I'm Izzy
 
-![GIF](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
+![GIF](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2NmdWhvYWxjdmI4Nmlmc3pza2hsdmg4M3E1emtpOHkyeXo1dXBwNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rB70UJMvuAZUs/giphy.gif)
 
 ## About Me
 
-Hey! My name is Izzy and I am a Visual Communication Design student at Eastern Washington University.  
+Hello! My name is Izzy and I am a Visual Communication Design student at Eastern Washington University.  
 I love all things creation, from coding websites to drawing comics and designing logos.  
-
 On a regular day, you'll probably catch me playing bass 🎸 or watching movies 🎬 :)
-
----
 
 ## Connect With Me
 
@@ -35,8 +30,6 @@ On a regular day, you'll probably catch me playing bass 🎸 or watching movies 
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-View%20My%20Work-black?style=for-the-badge&logo=github&logoColor=white)](https://valdezizzy.github.io/DESN368-code-design-workspace/)
 
----
-
 ## Skills & Tools
 
 - Adobe Creative Suite (Illustrator, Photoshop, InDesign)
@@ -45,15 +38,11 @@ On a regular day, you'll probably catch me playing bass 🎸 or watching movies 
 - UX/UI Design (Figma)
 - Illustration & Comics
 
----
-
 ## What I'm Working On
 
 - Building a UX portfolio  
 - Creating interactive web experiences  
-- Exploring AI in design workflows  
-
----
+- Working with real clients in the community to create posters
 
 ## GitHub Stats
 
