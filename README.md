@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## Hey 👋, This is Isabella Valdez
+[![Gmail Badge](https://img.shields.io/badge/-ivaldez6@ewu.edu-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:ivaldez6@ewu.edu)](mailto:ivaldez6@ewu.edu) 
+[![Linkedin Badge](https://img.shields.io/badge/-Isabella Valdez-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Isabella Valdez/)](https://www.linkedin.com/in/Isabella Valdez/) [![Github Badge](https://img.shields.io/badge/-ValdezIzzy-grey?style=flat&logo=github&logoColor=white&link=https://github.com/ValdezIzzy/)](https://www.github.com/ValdezIzzy/) [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=https://valdezizzy.github.io/DESN368-code-design-workspace//)](https://valdezizzy.github.io/DESN368-code-design-workspace//) <p align='left'>Hey! My name is Izzy and I am a visual communication design student at Eastern Washington University. I love all things creation from coding websites to drawing comics and designing logos. On a regular day, you'll probably catch me playing bass or watching movies :)</p>
+## Some of my Github Stats
+<p align=left> <img src=https://komarev.com/ghpvc/?username=ValdezIzzy alt=ValdezIzzy /> </p>
+
+[![Github stats](https://github-readme-stats.vercel.app/api?username=ValdezIzzy&show_icons=true&include_all_commits=true)](https://github.com/ValdezIzzy/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ValdezIzzy&layout=compact)](https://github.com/ValdezIzzy/github-readme-stats)
